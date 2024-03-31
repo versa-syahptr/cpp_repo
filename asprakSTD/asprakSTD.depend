@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1692589870 source:g:\cpproj\asprakstd\main.cpp
+	"MLL.h"
+
+1692589862 g:\cpproj\asprakstd\mll.h
+	<iostream>
+
+1692589863 source:g:\cpproj\asprakstd\mll.cpp
+	"MLL.h"
+

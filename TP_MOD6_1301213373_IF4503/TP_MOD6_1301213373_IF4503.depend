@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667169872 source:g:\cpproj\tp_mod6_1301213373_if4503\dll.cpp
+	"DLL.h"
+
+1667169574 source:g:\cpproj\tp_mod6_1301213373_if4503\main.cpp
+	"DLL.h"
+
+1667167295 g:\cpproj\tp_mod6_1301213373_if4503\dll.h
+	<iostream>
+

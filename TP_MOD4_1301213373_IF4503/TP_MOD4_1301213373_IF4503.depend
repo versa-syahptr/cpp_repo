@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665959772 source:g:\cpproj\tp_mod4_1301213373_if4503\main.cpp
+	"SLL.h"
+
+1665958531 g:\cpproj\tp_mod4_1301213373_if4503\sll.h
+	<iostream>
+
+1665959733 source:g:\cpproj\tp_mod4_1301213373_if4503\sll.cpp
+	"SLL.h"
+

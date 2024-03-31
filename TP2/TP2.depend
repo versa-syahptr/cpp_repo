@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665355083 source:g:\cpproj\tp2\member.cpp
+	"member.h"
+
+1665354153 g:\cpproj\tp2\member.h
+	<iostream>
+
+1665354161 source:g:\cpproj\tp2\main.cpp
+	"member.h"
+

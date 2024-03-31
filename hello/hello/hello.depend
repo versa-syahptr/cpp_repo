@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1664520035 source:d:\tugazz\2. coolyeah\4. semester 3\struktur data\tp\mod_2\hello\main.cpp
+	"hello.h"
+
+1664520713 d:\tugazz\2. coolyeah\4. semester 3\struktur data\tp\mod_2\hello\hello.h
+	<iostream>
+	<cstdlib>
+
+1664520149 source:d:\tugazz\2. coolyeah\4. semester 3\struktur data\tp\mod_2\hello\hello.cpp
+	"hello.h"
+
+1664765564 source:g:\cpproj\hello\hello\hello.cpp
+	"hello.h"
+
+1664765592 g:\cpproj\hello\hello\hello.h
+	<iostream>
+	<cstdlib>
+
+1664765533 source:g:\cpproj\hello\hello\main.cpp
+	"hello.h"
+

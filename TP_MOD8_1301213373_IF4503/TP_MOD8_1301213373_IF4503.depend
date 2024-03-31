@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1668351179 source:g:\cpproj\tp_mod8_1301213373_if4503\main.cpp
+	"CSLL.h"
+
+1668351589 g:\cpproj\tp_mod8_1301213373_if4503\csll.h
+	<iostream>
+
+1668351658 source:g:\cpproj\tp_mod8_1301213373_if4503\csll.cpp
+	"CSLL.h"
+

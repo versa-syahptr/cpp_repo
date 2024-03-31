@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1672065371 source:d:\document\kuliah sistem data\tp\tubes_std_sukabirus bermartabat\main.cpp
+	"tubes.h"
+
+1672037726 d:\document\kuliah sistem data\tp\tubes_std_sukabirus bermartabat\tubes.h
+	<iostream>
+
+1672037737 source:d:\document\kuliah sistem data\tp\tubes_std_sukabirus bermartabat\tubes.cpp
+	"tubes.h"
+
+1672848625 source:d:\document\kuliah struktur data\tp\tubes_std_sukabirus bermartabat\main.cpp
+	"tubes.h"
+
+1672848625 d:\document\kuliah struktur data\tp\tubes_std_sukabirus bermartabat\tubes.h
+	<iostream>
+
+1672848625 source:d:\document\kuliah struktur data\tp\tubes_std_sukabirus bermartabat\tubes.cpp
+	"tubes.h"
+
+1672848625 source:g:\cpproj\tubes_std_sukabirus bermartabat\main.cpp
+	"tubes.h"
+
+1672848625 g:\cpproj\tubes_std_sukabirus bermartabat\tubes.h
+	<iostream>
+
+1672848625 source:g:\cpproj\tubes_std_sukabirus bermartabat\tubes.cpp
+	"tubes.h"
+

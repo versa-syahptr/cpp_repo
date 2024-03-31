@@ -1,0 +1,15 @@
+*.rar
+*.zip
+*.reg
+*.ini
+*.exe
+.vscode
+*.pdf
+*.png
+*.jpg
+*.o
+halo dunia
+*.odt
+*.docx
+*/bin
+*/obj

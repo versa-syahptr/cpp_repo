@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670193102 source:g:\cpproj\tp_mod11_1301213373_if4503\main.cpp
+	"queue.h"
+
+1670192426 source:g:\cpproj\tp_mod11_1301213373_if4503\queue.cpp
+	"queue.h"
+
+1670191676 g:\cpproj\tp_mod11_1301213373_if4503\queue.h
+	<iostream>
+

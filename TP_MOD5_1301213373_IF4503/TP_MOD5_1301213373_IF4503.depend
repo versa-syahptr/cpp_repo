@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666565941 source:g:\cpproj\tp_mod5_1301213373_if4503\main.cpp
+	"menu.h"
+
+1666565920 source:g:\cpproj\tp_mod5_1301213373_if4503\menu.cpp
+	"menu.h"
+
+1669527730 g:\cpproj\tp_mod5_1301213373_if4503\menu.h
+	<iostream>
+
